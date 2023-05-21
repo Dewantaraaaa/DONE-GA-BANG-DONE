@@ -6,8 +6,8 @@ const long interval = 10800000;
 const int buttonPin1 = 10;  
 const int buttonPin2 = 11; 
 
-int buttonState1 = HIGH;  
-int buttonState2 = HIGH; 
+int buttonState1 = LOW;  
+int buttonState2 = LOW; 
 
 float step = 200; 
 float dpulley = 40;
